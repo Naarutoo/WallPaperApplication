@@ -6,7 +6,7 @@
     android:background="@color/white"
     android:orientation="vertical"
     android:padding="10dp"
-    tools:context=".fragment.BalanceFragment">
+    tools:context="subham.angel.moneymanager.fragment.BalanceFragment">
 
     <TextView
         android:layout_width="wrap_content"
